@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "event_id": 10,
+    "event_session_id": null,
+    "name": "Registration",
+    "description": null,
+    "venue": "Reception",
+    "time_start": "2019-03-28T08:00:00+08:00",
+    "duration": "3600",
+    "group_only": false
+  },
+  {
+    "id": 2,
+    "event_id": 10,
+    "event_session_id": null,
+    "name": "Opening Remarks",
+    "description": "Welcome remarks from the CEO",
+    "venue": "Main Hall",
+    "time_start": "2019-04-28T09:00:00+08:00",
+    "duration": "1800",
+    "group_only": false
+  },
+  {
+    "id": 3,
+    "event_id": 10,
+    "event_session_id": 1,
+    "name": "Preparing for the Future",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc imperdiet nunc diam, nec pellentesque ante luctus sit amet.",
+    "venue": "Conference 1",
+    "time_start": "2019-04-28T09:30:00+08:00",
+    "duration": "1800",
+    "group_only": false
+  },
+  {
+    "id": 4,
+    "event_id": 10,
+    "event_session_id": null,
+    "name": "Breakfast",
+    "description": null,
+    "venue": "Conference Cafe",
+    "time_start": "2019-04-29T08:00:00+08:00",
+    "duration": "1800",
+    "group_only": false
+  },
+  {
+    "id": 5,
+    "event_id": 10,
+    "event_session_id": null,
+    "name": "Breakfast",
+    "description": null,
+    "venue": "Conference Cafe",
+    "time_start": "2019-04-29T08:00:00+08:00",
+    "duration": "1800",
+    "group_only": false
+  },
+  {
+    "id": 6,
+    "event_id": 10,
+    "event_session_id": null,
+    "name": "Breakfast",
+    "description": null,
+    "venue": "Conference Cafe",
+    "time_start": "2019-04-29T08:00:00+08:00",
+    "duration": "1800",
+    "group_only": false
+  },
+  {
+    "id": 7,
+    "event_id": 10,
+    "event_session_id": null,
+    "name": "Breakfast",
+    "description": null,
+    "venue": "Conference Cafe",
+    "time_start": "2019-04-29T08:00:00+08:00",
+    "duration": "1800",
+    "group_only": false
+  },
+  {
+    "id": 8,
+    "event_id": 10,
+    "event_session_id": null,
+    "name": "Breakfast",
+    "description": null,
+    "venue": "Conference Cafe",
+    "time_start": "2019-04-29T08:00:00+08:00",
+    "duration": "1800",
+    "group_only": false
+  },
+  {
+    "id": 9,
+    "event_id": 10,
+    "event_session_id": null,
+    "name": "Breakfast",
+    "description": null,
+    "venue": "Conference Cafe",
+    "time_start": "2019-04-29T08:00:00+08:00",
+    "duration": "1800",
+    "group_only": false
+  },
+  {
+    "id": 10,
+    "event_id": 10,
+    "event_session_id": null,
+    "name": "Breakfast",
+    "description": null,
+    "venue": "Conference Cafe",
+    "time_start": "2019-04-29T08:00:00+08:00",
+    "duration": "1800",
+    "group_only": false
+  },
+]

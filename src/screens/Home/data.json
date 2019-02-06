@@ -1,0 +1,37 @@
+[
+  {
+	"id": 1,
+	"headline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque semper ex ut nunc dictum, consectetur volutpat ligula ornare. ",
+	"link": "Venue Change",
+	"time": "5min ago",
+	"category": "Anouncements"
+  },
+  {
+	"id": 2,
+	"headline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vel risus ut risus aliquet pharetra. ",
+	"link": "Future Trends starts in 10mins",
+	"time": "2hrs ago",
+	"category": "Reminders"
+  },
+  {
+	"id": 3,
+	"headline": "Sed ac sagittis ipsum, a tincidunt ipsum. Nunc convallis tempor tellus, id lobortis eros tincidunt eu.",
+	"link": "Which Coffee is the Best?",
+	"time": "5hrs ago",
+	"category": "Polls"
+  },
+  {
+	"id": 4,
+	 "headline": "Nam tellus mauris, sodales eget lacinia vel, dictum in felis. Suspendisse neque lectus, imperdiet blandit dapibus vitae, elementum ac nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+	"link": "This is a Long Message",
+	"time": "1day ago",
+	"category": "Random"
+  },
+  {
+	"id": 5,
+	"headline": "Vestibulum a tincidunt massa. Nulla maximus commodo ipsum, sit amet congue ligula gravida at. Aenean a libero nibh. Maecenas et nisl sit amet eros vehicula bibendum. Cras eu turpis nunc. Proin sodales cursus blandit. Proin est lacus, tempor quis pretium non, suscipit ac lectus. Duis sed libero pulvinar, ultricies arcu at, pulvinar massa. Suspendisse potenti. Fusce dictum orci leo, sit amet sollicitudin mauris dictum ut. Etiam euismod nunc sodales leo scelerisque rhoncus. Ut finibus dictum lectus nec efficitur. Maecenas felis magna, porttitor a nunc ut, placerat aliquam justo. Proin sagittis vestibulum tristique.",
+	"link": "This is a Longer Message",
+	"time": "1day ago",
+	"category": "Random"
+  }
+]
